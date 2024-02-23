@@ -1,2 +1,3 @@
-# Naturalist
-Naturalist App [Flutter]
+# naturalista
+
+A new Flutter project.
